@@ -1,1 +1,0 @@
-Для работы с римскими числами нужно использовать символы unicode (Ⅰ(8544) - Ⅹ(8553)) - https://unicode-table.com/ru/sets/roman-numerals/
